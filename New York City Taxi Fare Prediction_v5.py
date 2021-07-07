@@ -1,5 +1,5 @@
 # Importando bibliotecas
-# Leitura e manipulação de dados
+# Leitura e manipulação de dados 
 import numpy as np
 import pandas as pd
 import kaggle
